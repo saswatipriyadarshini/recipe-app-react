@@ -1,0 +1,15 @@
+.recipe-list__container{
+  height: 100%;
+}
+.recipe-list-item{
+  height: auto;
+  background: pink;
+  padding: 5px;
+  /*display: flex;*/
+  /*flex-direction: row;*/
+  /*align-items: center;*/
+}
+.recipe-list-item img{
+  height: 100px;
+  width: 100px;
+}
